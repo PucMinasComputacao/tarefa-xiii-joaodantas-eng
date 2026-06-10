@@ -1,0 +1,159 @@
+{
+  "lugares": [
+    {
+      "id": 1,
+      "nome": "Cristo Redentor",
+      "descricaoCurta": "Estátua icônica no topo do Corcovado, símbolo do Rio de Janeiro.",
+      "descricaoCompleta": "O Cristo Redentor é uma estátua de Jesus Cristo localizada no topo do morro do Corcovado, no Rio de Janeiro. Com 30 metros de altura, é uma das maiores estátuas do mundo e foi eleita uma das Sete Maravilhas do Mundo Moderno em 2007. Construída entre 1922 e 1931, atrai milhões de turistas todos os anos.",
+      "imagem": "https://images.unsplash.com/photo-1593995863951-57c27e518295?w=600",
+      "categoria": "Monumento",
+      "pais": "Brasil",
+      "avaliacao": 4.9,
+      "tags": ["maravilha do mundo", "estátua", "rio de janeiro", "brasil"],
+      "destaque": true,
+      "lat": -22.9519,
+      "lng": -43.2105
+    },
+    {
+      "id": 2,
+      "nome": "Machu Picchu",
+      "descricaoCurta": "Antiga cidade inca construída no alto dos Andes peruanos.",
+      "descricaoCompleta": "Machu Picchu é uma cidadela inca localizada a 2.430 metros de altitude nas montanhas dos Andes, no Peru. Construída no século XV pelo imperador Pachacuti, foi abandonada durante a conquista espanhola e redescoberta pelo ocidente em 1911. É Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
+      "imagem": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=600",
+      "categoria": "Sítio Arqueológico",
+      "pais": "Peru",
+      "avaliacao": 4.9,
+      "tags": ["maravilha do mundo", "inca", "andes", "peru"],
+      "destaque": true,
+      "lat": -13.1631,
+      "lng": -72.5450
+    },
+    {
+      "id": 3,
+      "nome": "Coliseu",
+      "descricaoCurta": "Anfiteatro romano do século I, símbolo da grandeza do Império Romano.",
+      "descricaoCompleta": "O Coliseu, ou Anfiteatro Flaviano, é um anfiteatro oval localizado no centro de Roma, Itália. Construído entre 70 e 80 d.C., tinha capacidade para até 80 mil espectadores e era usado para gladiadores, combates de animais e execuções públicas. É o maior anfiteatro já construído e uma das Sete Maravilhas do Mundo Moderno.",
+      "imagem": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600",
+      "categoria": "Monumento",
+      "pais": "Itália",
+      "avaliacao": 4.8,
+      "tags": ["maravilha do mundo", "roma", "anfiteatro", "itália"],
+      "destaque": true,
+      "lat": 41.8902,
+      "lng": 12.4922
+    },
+    {
+      "id": 4,
+      "nome": "Grande Muralha da China",
+      "descricaoCurta": "Muralha histórica construída para proteger o império chinês.",
+      "descricaoCompleta": "A Grande Muralha da China é uma série de muralhas e fortalezas construídas ao longo de séculos para proteger os estados chineses de invasões. Com mais de 21 mil quilômetros de extensão total, foi construída principalmente durante a dinastia Ming (1368–1644). É Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
+      "imagem": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600",
+      "categoria": "Patrimônio Histórico",
+      "pais": "China",
+      "avaliacao": 4.8,
+      "tags": ["maravilha do mundo", "muralha", "china", "história"],
+      "destaque": true,
+      "lat": 40.4319,
+      "lng": 116.5704
+    },
+    {
+      "id": 5,
+      "nome": "Taj Mahal",
+      "descricaoCurta": "Mausoléu de mármore branco, símbolo de amor eterno na Índia.",
+      "descricaoCompleta": "O Taj Mahal é um mausoléu de mármore branco localizado em Agra, na Índia. Foi mandado construir pelo imperador mogol Shah Jahan em memória de sua esposa Mumtaz Mahal, que morreu em 1631. Considerado uma das obras-primas da arquitetura mundial, é Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
+      "imagem": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600",
+      "categoria": "Monumento",
+      "pais": "Índia",
+      "avaliacao": 4.9,
+      "tags": ["maravilha do mundo", "mausoléu", "índia", "mármore"],
+      "destaque": true,
+      "lat": 27.1751,
+      "lng": 78.0421
+    },
+    {
+      "id": 6,
+      "nome": "Chichén Itzá",
+      "descricaoCurta": "Cidade maia com a famosa pirâmide El Castillo no México.",
+      "descricaoCompleta": "Chichén Itzá é uma antiga cidade maia localizada no estado de Yucatán, no México. O seu monumento mais famoso é a pirâmide El Castillo, também conhecida como Templo de Kukulcán, que possui 24 metros de altura. Foi uma das cidades mais importantes da civilização maia e é Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
+      "imagem": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=600",
+      "categoria": "Sítio Arqueológico",
+      "pais": "México",
+      "avaliacao": 4.7,
+      "tags": ["maravilha do mundo", "maia", "pirâmide", "méxico"],
+      "destaque": true,
+      "lat": 20.6843,
+      "lng": -88.5678
+    },
+    {
+      "id": 7,
+      "nome": "Petra",
+      "descricaoCurta": "Cidade esculpida na rocha vermelha no deserto da Jordânia.",
+      "descricaoCompleta": "Petra é uma cidade arqueológica localizada no sudoeste da Jordânia. Conhecida como a 'Cidade Rosa' por causa da cor da rocha em que foi esculpida, foi a capital do reino Nabateu. Seu monumento mais famoso é o Tesouro (Al-Khazneh), uma fachada esculpida diretamente na rocha. É Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno.",
+      "imagem": "https://images.unsplash.com/photo-1579606032821-4e6161c81bd3?w=600",
+      "categoria": "Sítio Arqueológico",
+      "pais": "Jordânia",
+      "avaliacao": 4.8,
+      "tags": ["maravilha do mundo", "rocha", "nabateu", "jordânia"],
+      "destaque": true,
+      "lat": 30.3285,
+      "lng": 35.4444
+    },
+    {
+      "id": 8,
+      "nome": "Torre Eiffel",
+      "descricaoCurta": "Ícone de ferro forjado construído para a Exposição Universal de 1889.",
+      "descricaoCompleta": "A Torre Eiffel é uma torre de ferro forjado localizada no Champ de Mars, em Paris, França. Foi construída por Gustave Eiffel entre 1887 e 1889 para servir de entrada para a Exposição Universal de 1889. Com 330 metros de altura, é o monumento mais visitado do mundo, recebendo cerca de 7 milhões de visitantes por ano.",
+      "imagem": "https://images.unsplash.com/photo-1543349689-9a4d426bee8e?w=600",
+      "categoria": "Monumento",
+      "pais": "França",
+      "avaliacao": 4.7,
+      "tags": ["paris", "torre", "ferro", "frança"],
+      "destaque": false,
+      "lat": 48.8584,
+      "lng": 2.2945
+    },
+    {
+      "id": 9,
+      "nome": "Angkor Wat",
+      "descricaoCurta": "Maior templo religioso do mundo, construído pelo Império Khmer.",
+      "descricaoCompleta": "Angkor Wat é um complexo de templos localizado em Siem Reap, no Camboja. Construído no início do século XII pelo rei Suryavarman II, é o maior monumento religioso do mundo, ocupando uma área de 162,6 hectares. Originalmente dedicado ao deus hindu Vishnu, tornou-se um templo budista no século XIII. É Patrimônio Mundial da UNESCO.",
+      "imagem": "https://images.unsplash.com/photo-1600706432502-77a0e2e32790?w=600",
+      "categoria": "Templo",
+      "pais": "Camboja",
+      "avaliacao": 4.8,
+      "tags": ["templo", "khmer", "camboja", "budismo"],
+      "destaque": false,
+      "lat": 13.4125,
+      "lng": 103.8670
+    },
+    {
+      "id": 10,
+      "nome": "Stonehenge",
+      "descricaoCurta": "Monumento pré-histórico de pedras no sul da Inglaterra.",
+      "descricaoCompleta": "Stonehenge é um monumento pré-histórico localizado em Wiltshire, na Inglaterra. Consiste em um anel de pedras em pé, cada uma com cerca de 4 metros de altura e 2,5 metros de largura, pesando aproximadamente 25 toneladas. Construído entre 3000 e 2000 a.C., seu propósito exato ainda é debatido por arqueólogos. É Patrimônio Mundial da UNESCO.",
+      "imagem": "https://images.unsplash.com/photo-1599833975787-5c143f373c30?w=600",
+      "categoria": "Patrimônio Histórico",
+      "pais": "Reino Unido",
+      "avaliacao": 4.5,
+      "tags": ["pré-histórico", "pedras", "inglaterra", "mistério"],
+      "destaque": false,
+      "lat": 51.1789,
+      "lng": -1.8262
+    }
+  ],
+  "categorias": [
+    { "id": 1, "nome": "Monumento" },
+    { "id": 2, "nome": "Sítio Arqueológico" },
+    { "id": 3, "nome": "Patrimônio Histórico" },
+    { "id": 4, "nome": "Templo" }
+  ],
+  "avaliacoes": [
+    { "id": 1, "lugarId": 1, "usuario": "Maria", "nota": 5, "comentario": "Incrível, visita obrigatória!" },
+    { "id": 2, "lugarId": 2, "usuario": "Carlos", "nota": 5, "comentario": "Uma experiência única na vida." },
+    { "id": 3, "lugarId": 3, "usuario": "Ana", "nota": 4, "comentario": "Histórico e impressionante." }
+  ],
+  "favoritos": [
+    { "id": 1, "lugarId": 1 },
+    { "id": 2, "lugarId": 5 }
+  ]
+}
